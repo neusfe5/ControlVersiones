@@ -1,0 +1,18 @@
+---
+title: "Areas"
+author: "Neus Ferrer Font"
+output: html_document
+date: "2025-02-05"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Área círculo
+
+```{r}
+r <- 0.5
+Area <- pi * r^2
+```
+
