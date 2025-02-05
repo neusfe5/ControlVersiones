@@ -7,5 +7,5 @@ LongitudCircumferencia <- function(R){
 }
 
 PerimetroRectangulo <- function(B, A){
-  return(2 * (B + A))
+  return(2 * B + 2 * A)
 }
